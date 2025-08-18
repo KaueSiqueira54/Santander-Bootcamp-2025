@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  column-width: 20rem;
+  column-rule: 3px solid red;
+  column-gap: 3rem;
+}
